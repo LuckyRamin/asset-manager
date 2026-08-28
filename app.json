@@ -2,6 +2,7 @@
   "expo": {
     "name": "داشبورد دارایی",
     "slug": "asset-manager",
+    "owner": "lukramin",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
