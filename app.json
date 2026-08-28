@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "داشبورد دارایی",
+    "slug": "asset-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "icon": "./icon.png",
+    "android": {
+      "package": "com.manager.assets",
+      "adaptiveIcon": {
+        "foregroundImage": "./icon.png",
+        "backgroundColor": "#0f172a"
+      }
+    }
+  }
+}
